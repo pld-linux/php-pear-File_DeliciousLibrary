@@ -1,0 +1,13 @@
+--- File_DeliciousLibrary-0.1.1/usr/share/pear/File/DeliciousLibrary.php~	2008-12-27 02:29:48.473339306 +0100
++++ File_DeliciousLibrary-0.1.1/usr/share/pear/File/DeliciousLibrary.php	2008-12-27 02:30:32.889168122 +0100
+@@ -38,8 +38,8 @@
+  * @see http://www.delicious-monster.com/
+  */
+ 
+-require "DeliciousLibrary/Item.php";
+-require "DeliciousLibrary/Shelf.php";
++require "File/DeliciousLibrary/Item.php";
++require "File/DeliciousLibrary/Shelf.php";
+ 
+ class File_DeliciousLibrary_Exception extends Exception {}
+ 
