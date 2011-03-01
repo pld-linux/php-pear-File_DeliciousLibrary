@@ -7,7 +7,7 @@ Summary:	%{_pearname} - Parser for the library database of the Delicious Library
 Summary(pl.UTF-8):	%{_pearname} - parser baz danych oprogramowania Delicious Library
 Name:		php-pear-%{_pearname}
 Version:	0.1.1
-Release:	1
+Release:	2
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
